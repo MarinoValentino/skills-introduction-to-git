@@ -1,5 +1,3 @@
-AAA
-Main
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
-In the Commit message field, type a short and meaningful commit message that describes the change you made to the file. You can attribute the commit to more than one author in the commit message.
-
+Git is lightning fast and has a huge ecosystem of GUIs, hosting services, and command-line tools.
