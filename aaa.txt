@@ -1,2 +1,5 @@
 AAA
 Main
+
+In the Commit message field, type a short and meaningful commit message that describes the change you made to the file. You can attribute the commit to more than one author in the commit message.
+
